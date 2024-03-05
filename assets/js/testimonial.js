@@ -166,8 +166,8 @@ const FilterTesti = async (targetRating) => {
 
       dataFiltered.forEach((rating) => {
         const item = data.data.find((testimonial) => testimonial.rate === rating);
-
-        if (item) {
+        // comment double gak akan dimasukkin ke dalam pakai include
+        if (item && !dataHTML.includes(item.comment)) {
           console.log(item);
           dataHTML += `
             <div class="card-testi">
