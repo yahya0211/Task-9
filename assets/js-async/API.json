@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "rate": 5,
+      "image": "https://img.freepik.com/free-photo/portrait-smiling-blonde-woman_23-2148316635.jpg?t=st=1709078752~exp=1709082352~hmac=e7e4d2507d7fb1ce7c7290274818cf1ae3adf60608cc0498cbc55b313ef242ee\u0026w=900",
+      "author": "Rebecca Eltra",
+      "comment": "Situs ini keren banget! Bisa nemuin apa aja dengan cepat."
+    },
+    {
+      "rate": 5,
+      "image": "https://img.freepik.com/free-photo/front-view-man-pointing-up_23-2148946191.jpg?t=st=1709078482~exp=1709082082~hmac=f7515cc771038153ead016835b00f9f2e702ecf9fe8e595440d653bac997e3ba\u0026w=900",
+      "author": "Muhammad Zaid",
+      "comment": "Navigasinya gampang dimengerti, jadi nggak bingung deh."
+    },
+    {
+      "rate": 4,
+      "image": "https://img.freepik.com/free-vector/young-muslims-love-each-other-rest-their-shoulders_1150-40739.jpg?t=st=1709078256~exp=1709081856~hmac=c916681ec80ca9414e4812e9832776050abebfc045a2564fdd9427ec24d8c0b3\u0026w=900",
+      "author": "Aulia Romadhon",
+      "comment": "Desainnya keren banget, jadi betah buat lama-lama di website."
+    },
+    {
+      "rate": 3,
+      "image": "https://img.freepik.com/free-photo/smiley-delivery-man-signing-documents_23-2148447811.jpg?t=st=1709079499~exp=1709083099~hmac=915262b1de9e91e8cb33bfab9f4a2cf62a5d99aaf84eb0d11156d815ee6e51e6\u0026w=900",
+      "author": "Samsul Clan",
+      "comment": "Artikel-artikelnya bermanfaat banget buat saya."
+    },
+    {
+      "rate": 2,
+      "image": "https://img.freepik.com/free-photo/beautiful-caucasian-businesswoman-suit_144627-236.jpg?t=st=1709079594~exp=1709083194~hmac=658c525c659db468118582c5df9f5090c8ae322e6060770012552b32b9e9f2ce\u0026w=900",
+      "author": "KTVI Corporation",
+      "comment": "Tim dukungan pelanggannya responsif banget, mantap!"
+    },
+    {
+      "rate": 4,
+      "image": "https://img.freepik.com/free-photo/bull-with-red-background-word-buffalo-it_1340-34443.jpg?t=st=1709079820~exp=1709083420~hmac=4ef587409ca57b7e79bc8c3bf7886ea764e0fb51004e7d33ca2619285f737e4e\u0026w=900",
+      "author": "Mega chan",
+      "comment": "Pembeliannya lancar, aman, dan nyaman."
+    },
+    {
+      "rate": 5,
+      "image": "https://img.freepik.com/free-photo/surprised-young-muslim-woman-points-up-with-one-fore-finger-focused-upwards-has-concerned-facial-expression-veiled-head_273609-27302.jpg?t=st=1709079868~exp=1709083468~hmac=66e6517d95b706f8908269b352fa93c844eb508134b93ff0c7ac6e36b48c6c7c\u0026w=900",
+      "author": "Putri Maharani",
+      "comment": "Komunitasnya ramah banget, seru buat diskusi."
+    },
+    {
+      "rate": 4,
+      "image": "https://img.freepik.com/free-photo/young-businessman-using-smartphone-holding-coffee-cup-hand_23-2148176174.jpg?t=st=1709079910~exp=1709083510~hmac=8a65070bbc546807cc9c057801c2fb83592bd36548c9fd21b49ed01f0d83ae9c\u0026w=900",
+      "author": "Jhon Doe",
+      "comment": "Fitur pencarian situs ini oke banget, langsung ketemu yang dicari."
+    },
+    {
+      "rate": 3,
+      "image": "https://img.freepik.com/free-photo/handsome-man-black-suit-with-white-shirt-posing-attractive-guy-with-fashion-hairstyle-confident-man-with-short-beard-adult-boy-with-brown-hair_186202-8527.jpg?t=st=1709079947~exp=1709083547~hmac=a8d1c934848aba81ec1ddf3541664bdaf5c23ae62a9f8b86636c0b728c2567cf\u0026w=900",
+      "author": "Divara Prayoga",
+      "comment": "Sumber inspirasi terbaik buat proyek kreatif saya."
+    }
+  ],
+  "message": "Success finding testimonial datas !"
+}

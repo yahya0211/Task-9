@@ -1,0 +1,76 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: gainsboro;
+}
+
+/* Fomulir */
+.formulir {
+  width: 350px;
+  margin: 50px auto;
+}
+
+.atas {
+  padding-bottom: 50px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.isi-form {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid #dbdbdbdb;
+  margin-top: 5px;
+}
+
+.isi-form textarea {
+  resize: none;
+  height: 100px;
+}
+
+.isi-form label {
+  font-weight: bold;
+}
+
+.isi-form div {
+  margin: 10px;
+}
+
+.isi-form div .btn-submit {
+  color: white;
+  background-color: black;
+  padding: 8px 10px;
+  border: none;
+  float: right;
+  border-radius: 50px;
+  width: 100px;
+  text-transform: lowercase;
+}
+
+.name-box,
+.email-box,
+.number-box,
+.subject-box {
+  border: 0px solid black;
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+}
+
+.massage-box {
+  border: 0px solid black;
+  width: 300px;
+}
+
+.name-box,
+.email-box,
+.number-box,
+.subject-box,
+.massage-box {
+  box-shadow: 0px 1px black;
+}

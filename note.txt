@@ -1,0 +1,53 @@
+<html>
+  <!-- Header -->
+  <head>
+    <title>Personal Web</title>
+  </head>
+  <!-- Ini text body -->
+  <body style="background-color: whitesmoke">
+    <!-- Ini isinya -->
+    <div style="background-color: white; margin-top: 50; margin-bottom: 50; margin-left: 20; margin-right: 20; padding-bottom: 50px; box-shadow: 0px 2px 5px black; border-radius: 10px">
+      <!-- Ini textnya -->
+      <div style="text-align: justify; padding-left: 20%; padding-top: 5%; padding-bottom: 0%; padding-right: 20%">
+        <h1>Hi Welcome to my hut</h1>
+        <span
+          >Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni dicta debitis atque doloremque dolores est cumque libero porro sunt velit eius blanditiis, quaerat consequuntur corporis assumenda temporibus mollitia at laudantium!
+          Deleniti alias aliquid esse dignissimos odio consequatur eos dolorum laudantium, necessitatibus maiores in harum impedit ipsa quidem architecto rerum autem doloribus similique, natus eius. Ab saepe necessitatibus maiores
+          laudantium ipsam.</span
+        >
+      </div>
+      <!-- Ini button -->
+      <div style="padding-left: 20%; padding-top: 20px; padding-bottom: 0%; padding-right: 20%">
+        <button style="border-radius: 20px; padding: 10px; text-align: center; color: white; background-color: black; border-color: black; width: 20%">contact</button>
+      </div>
+      <!-- Ini Download CV -->
+      <div style="padding-left: 20%; padding-top: 30px; padding-bottom: 0%; padding-right: 20%">
+        <a style="text-decoration: none; color: black" href="https://drive.google.com/file/d/1W_Yg76gqIXteO9xW0nPaRoXNsJuAsGn4/view?usp=sharing">download CV</a>
+        <a href="https://drive.google.com/file/d/1W_Yg76gqIXteO9xW0nPaRoXNsJuAsGn4/view?usp=sharing"><img style="width: 20px; padding-left: 1%" src="downloads.png" /> </a>
+      </div>
+      <!-- Ini untuk social media -->
+      <div style="padding-left: 20%; padding-top: 30px; padding-bottom: 0%; padding-right: 20%; text-align: center">
+        <tr>
+          <th>
+            <a href="https://www.linkedin.com/in/yahya-agung-nadabunda/"><img style="width: 40px" src="linkedin.png" /></a>
+          </th>
+          <th>
+            <a href="https://www.instagram.com/yahyaagung75/"><img style="width: 40px" src="instagram.png" /></a>
+          </th>
+          <th>
+            <a href=""><img style="width: 40px" src="facebook.png" /></a>
+          </th>
+          <th>
+            <a href=""><img style="width: 40px" src="twitter.png" /></a>
+          </th>
+        </tr>
+      </div>
+      <!-- Ini Card -->
+      <div style="background-color: white; border: 1px; text-align: center; margin: auto; margin-top: 20px; margin-left: 30%; margin-right: 30%; padding-bottom: 15px; border-radius: 10px; box-shadow: 0px 2px 10px black">
+        <img style="border-radius: 10px; width: 100%" src="christian-buehner-DItYlc26zVI-unsplash.jpg" />
+        <h2>Rhoma Irama</h2>
+        <span>Fullstack Developer</span>
+      </div>
+    </div>
+  </body>
+</html>
